@@ -1,0 +1,34 @@
+/**
+ * Skin: Ciano
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#328a99 }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/ciano/bg.gif') }                               
+#logo a { background-image:url('../../images/logo.png') }
+#slider { background-image:url('../../images/colors/ciano/slider-light.png') } 
+
+#footer { background-color:#378795; background-image:url(''); background-position:bottom center }               
+#copyright { background-color:#28545c }  
+
+#nav li { border-left:1px solid #408b98; border-right:1px solid #2a626c }
+#nav a { color:#fff }
+#nav a:hover { color:#c2f6ff }
+#nav span { color:#55a5b3 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#328a99 }
+#nav-slider .arrow { background-image:url('../../images/icons/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#fff }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#fff }
+#footer a, #copyright a { color:#92e4f2 }
+#footer a:hover, #copyright a:hover { color:#9ed4de }
+#footer h3 { color:#fff }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#409bab }
+#footer .flickr img { background-color:#2f717d; border-color:#3eadc0 }

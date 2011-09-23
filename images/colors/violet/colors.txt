@@ -1,0 +1,17 @@
+color-link:#702693
+color-nav:#fff
+color-nav-hover:#e5b8fb
+color-nav-descr:#b98ccf
+border-left-nav:#644572
+border-right-nav:#452c51              
+color-nav-slider:#fff
+color-nav-slider-hover:#702693
+bg-footer:#4f345c
+bg-copyright:#300c41
+title-footer:#fff
+color-footer:#fff
+link-footer:#e4baf8   
+link-footer-hover:#ae5cd5
+border-footer:#886598
+bg-flickr:#402a4a  
+border-flickr:#775687

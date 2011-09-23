@@ -1,0 +1,34 @@
+/**
+ * Skin: Fun
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#c84c07 }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/fun/bg.jpg') }                               
+#logo a { background-image:url('../../images/logo.png') }
+#slider { background-image:url('') } 
+
+#footer { background-color:#ca2702; background-image:url(''); background-position:bottom center }               
+#copyright { background-color:#921c01 }  
+
+#nav li { border-left:1px solid #b34506; border-right:1px solid #de5d14 }
+#nav a { color:#fff }
+#nav a:hover { color:#fccf99 }
+#nav span { color:#fea803 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#c84c07 }
+#nav-slider .arrow { background-image:url('../../images/icons/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#fff }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#fff }
+#footer a, #copyright a { color:#fbab4c }
+#footer a:hover, #copyright a:hover { color:#f89904 }
+#footer h3 { color:#fff }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#b22303 }
+#footer .flickr img { background-color:#a12003; border-color:#ee4018 }

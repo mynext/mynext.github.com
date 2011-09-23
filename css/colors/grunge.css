@@ -1,0 +1,34 @@
+/**
+ * Skin: Grunge	
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#000 }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/grunge/bg.jpg') }                               
+#logo a { background-image:url('../../images/logo.png') }
+#slider { background-image:url('') } 
+
+#footer { background-color:#000; background-image:url('../../images/colors/grunge/bg-footer.jpg'); background-position:bottom center }               
+#copyright { background-color:#000 }  
+
+#nav li { border-left:1px solid #2b2e2e; border-right:1px solid #000 }
+#nav a { color:#fff }
+#nav a:hover { color:#c2d0d0 }
+#nav span { color:#757676 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#4e4e4e }
+#nav-slider .arrow { background-image:url('../../images/icons/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#fff }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#fff }
+#footer a, #copyright a { color:#a6a3a3 }
+#footer a:hover, #copyright a:hover { color:#908e8e }
+#footer h3 { color:#fff }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#2c2c2c }
+#footer .flickr img { background-color:#1b1b1b; border-color:#5b5a5a }

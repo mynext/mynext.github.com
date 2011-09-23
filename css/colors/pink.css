@@ -1,0 +1,34 @@
+/**
+ * Skin: Pink	
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#cf2fcd }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/pink/bg.gif') }                               
+#logo a { background-image:url('../../images/logo.png') }
+#slider { background-image:url('../../images/colors/pink/slider-light.png') } 
+
+#footer { background-color:#b02c8f; background-image:url(''); background-position:bottom center }               
+#copyright { background-color:#92016d }  
+
+#nav li { border-left:1px solid #d247a3; border-right:1px solid #ac2b80 }
+#nav a { color:#fff }
+#nav a:hover { color:#fd73db }
+#nav span { color:#f8bbe4 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#cf2495 }
+#nav-slider .arrow { background-image:url('../../images/icons/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#fff }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#fff }
+#footer a, #copyright a { color:#feb0eb }
+#footer a:hover, #copyright a:hover { color:#fe90d6 }
+#footer h3 { color:#fff }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#c15fa9 }
+#footer .flickr img { background-color:#942578; border-color:#cc4aac }

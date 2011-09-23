@@ -1,0 +1,34 @@
+/**
+ * Skin: Sketch
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#397493 }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/sketch/bg.jpg') }                               
+#logo a { background-image:url('../../images/colors/sketch/logo.png') }
+#slider { background-image:url('') } 
+
+#footer { background-color:#363636; background-image:url('../../images/colors/sketch/bg-footer.jpg'); background-position:bottom center }               
+#copyright { background-color:#8c8c8c }  
+
+#nav li { border-left:1px solid #d0cfcf; border-right:1px solid #454545 }
+#nav a { color:#666565 }
+#nav a:hover { color:#969494 }
+#nav span { color:#000 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#402e20 }
+#nav-slider .arrow { background-image:url('../../images/colors/sketch/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#000 }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#000 }
+#footer a, #copyright a { color:#555454 }
+#footer a:hover, #copyright a:hover { color:#000 }
+#footer h3 { color:#000 }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#999797 }
+#footer .flickr img { background-color:#a8a8a7; border-color:#f6f6f6 }

@@ -1,0 +1,34 @@
+/**
+ * Skin: White
+ */ 
+
+p, li, address { color:#696969 }
+a { color:#397493 }
+a:hover { color:#c0bfbf }
+
+body { background-image:url('../../images/colors/white/bg.gif') }                               
+#logo a { background-image:url('../../images/colors/white/logo.png') }
+#slider { background-image:url('../../images/colors/white/slider-light.png') } 
+
+#footer { background-color:#fff; background-image:url(''); background-position:bottom center }               
+#copyright { background-color:#fff }  
+
+#nav li { border-left:1px solid #e4e3e3; border-right:1px solid #fff }
+#nav a { color:#676666 }
+#nav a:hover { color:#424040 }
+#nav span { color:#676666 }                                              
+
+#nav-slider, #top-slogan { background-image:url('../../images/bg/nav-slider.png') }
+#nav-slider a:hover, #nav-slider li:hover a, #nav-slider li.active a, #nav-slider li.current a { color:#402e20 }
+#nav-slider .arrow { background-image:url('../../images/colors/white/arrow-up.png') } 
+
+#slider .panel h1, #slider .panel h2, #slider .panel p { color:#000 }
+
+#content { background-color:#fff }
+
+#footer p, #footer li, #footer address, #footer span, #copyright, #footer a.contact strong { color:#747373 }
+#footer a, #copyright a { color:#000 }
+#footer a:hover, #copyright a:hover { color:#424141 }
+#footer h3 { color:#494747 }
+#footer .menu li, #footer .menu li.first, #footer .menu li.last, #footer address { border-color:#dddada }
+#footer .flickr img { background-color:#fff; border-color:#cacaca }
